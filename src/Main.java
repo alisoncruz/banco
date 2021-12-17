@@ -1,5 +1,3 @@
-package db;
-
 import Util.UI;
 import models.Cliente;
 import service.ClienteService;
